@@ -81,5 +81,5 @@ Checkbox:
 
 **Maquina Analítica:1834-1837**
 * fue diseñada para realizar cualquier tipo de cálculo establecido anteriormente y para tener una capacidad de análisis aún mayor que la Máquina Diferencial original.
-* Fue considera la primeramáquina de cálculo completamente automática.
+* Fue considera la primeramáquina de cálculo completamente automática. 
  
