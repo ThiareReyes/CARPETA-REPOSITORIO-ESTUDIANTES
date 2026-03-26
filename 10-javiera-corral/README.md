@@ -32,8 +32,15 @@ tablas: |holis
 emoji :nombre emoji 
 
 LA COMPUTACIÓN
-- 
-1822 
+-
+- 1822 máquina diferencial "primera computadora del mundo" - Charles Babbage, solo eran las instrucciones de la maquina nunca logró armarla por completo/
+   1991 museo de las ciencias construye la maquina y funciona
+- 1834, 1837 máquina analítica de varios calculos matemáticos, Charles Babbage y Ada Lovelace
+- 801 telar de jacqard, primer sistema de almacenamiento de información binaria usando tarjetas perforadas crea diseños en el telar (inspiró a Ada para la máquina analítica)
+- Ada Lovelace "Madre del Creative Coding" la primera en entender que la programación de máquinas podria usarse para algo más que solo matemáticas sino también audio o las artes en general 
+
+  
+  
 
 
 
