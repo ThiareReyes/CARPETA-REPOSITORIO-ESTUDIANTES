@@ -37,7 +37,13 @@ LA COMPUTACIÓN
    1991 museo de las ciencias construye la maquina y funciona
 - 1834, 1837 máquina analítica de varios calculos matemáticos, Charles Babbage y Ada Lovelace
 - 801 telar de jacqard, primer sistema de almacenamiento de información binaria usando tarjetas perforadas crea diseños en el telar (inspiró a Ada para la máquina analítica)
-- Ada Lovelace "Madre del Creative Coding" la primera en entender que la programación de máquinas podria usarse para algo más que solo matemáticas sino también audio o las artes en general 
+- Ada Lovelace "Madre del Creative Coding" la primera en entender que la programación de máquinas podria usarse para algo más que solo matemáticas sino también audio o las artes en general
+- 1936 máquina de turing, primer indicio de programación
+- despertar visual: artistas y algoritmos, decada de los 60
+- 1968 cybernetic serendipity, londres
+
+
+
 
   
   
