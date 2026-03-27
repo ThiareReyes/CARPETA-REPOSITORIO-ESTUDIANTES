@@ -37,4 +37,9 @@ Render: confirgura el programa en modo dos d, imagenes basicas, planas
 *comando ++ es para acercar la visualizacion de la pantalla 
 
 # background
+debtro de su parentesis se cambia el color.
 sintaxis: background(v1, v2, v3, 
+
+
+                    siempre debe estar cerrado por { la informacion que le pida el porgrama 
+  
