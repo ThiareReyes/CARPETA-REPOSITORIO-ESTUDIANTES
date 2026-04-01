@@ -47,13 +47,41 @@ En 1985 se crea el *Manifiesto GNU y se funda la FSF*:
     2. *Libertad de estudio*  
     3. *Libertad de distribución*  
     4. *Libertad de mejora*  
-Principios adicionales de la FSF:  
+**Principios adicionales de la FSF:**  
     - *Libertad, no precio*  
     - *Copyleft* (sus siguiente versiones sigan siendo libres)  
     - *Lucha contra restricciones*  
     - *Desarrollo del proyecto GNU* ( fomentar un sistema de desarrollo libre)  
     
-Open source y Free Software
+#### OPEN SOURCE Y FREE SOFTWARE:
 
-El modelo abierto se considera tecnicamente sueperior, ideal si queremos tener una pagina.
-Nación en febrero de 1968, 
+El modelo abierto se considera *tecnicamente superior*, ideal si queremos tener una pagina, nació en 1968.
+
+**Free Software**:  
+    - Etico y social  
+    - La libertad del usuario es lo más importante  
+    - El software privado se considera como un problema  
+**Open Source**:  
+    - Patrico y técnico  
+    - La calidad de software y colaboración es lo más importante  
+    - Se aceptan los software provados pero es mejor visto el abierto  
+    - OSI (open source initiative)  
+    - Creado por Eric S. Raymond y Bruce Perens  
+
+#### DESIGN BY NUMBERS  
+
+Exp. educativo creado por *John Maeda* en 1999, consistía en un lenguaje de programación y espacio **diseñado especificamente para diseñadores visuales**.
+El espacio de trabajo era una cuadricula de 100 x 100 píxeles, no contaba con colores complejos de RGB en donde 0 era blanco y 100 era negro, además, eliminó los puntos y comas, las llaves, *facilitando la escritura de los codigos o modificaciones*.  
+
+John Maeda aparte de crear DBN, fue *vicepresidente de Diseño e IA en Microsoft*, director de la ACG y presidente de la RISD, entre otras cosas.  
+
+**Processing**:  
+Es un software libre y gratuito, diseñado para que artistas, diseñadores o pricipiantes **aprendan a programar espacios visuales**.  
+    1. Expandieron las limitaciones de DBN
+    2. Creado por estudiantes de John Maeda, *Ben Fry y Casey Reas*  
+    3. Agregaron paleta de color y tamaño variable  
+
+**P5.js**:  
+Creado *Lauren Mccarthy*, es una pagina online para aprender a programar de forma amigable, usa una **biblioteca de Java Script libre**.  
+Prioriza la accesivilidad, compañerismo y inclusión, buscando que sea fácil de usar y ayudarse entre toda la comunidad a aprender.
+
