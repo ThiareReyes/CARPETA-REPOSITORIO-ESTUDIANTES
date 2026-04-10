@@ -18,4 +18,9 @@
 
 <img width="1910" height="988" alt="image" src="https://github.com/user-attachments/assets/b5b9a3b9-dd6d-4b0a-b860-83ee5a4153e8" />
 
+### Dibujo Analogo  
+ <img width="1479" height="1482" alt="image" src="https://github.com/user-attachments/assets/9c810fd9-ebc9-45c2-b6f2-a9b01c6c889c" />  
+
+### Dibujo P5.js
+
 https://editor.p5js.org/Josefina130/sketches/CaU0_R4sP
